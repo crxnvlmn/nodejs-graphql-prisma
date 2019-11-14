@@ -3,7 +3,7 @@ This is a learning material implementing GraphQL + Prisma in NodeJS and building
 
 Learning Resource: https://howtographql.com <br/>
 Watch me learn it live: https://youtu.be/lEXaOrzGWTo <br/>
-Hacker News Clone Demo Timestamp: https://youtu.be/h3LmThMuQBs?t=7633
+Hacker News Clone Demo Timestamp: https://youtu.be/lEXaOrzGWTo?t=9561
 
 ## Run Locally
   1. `git clone ...`
